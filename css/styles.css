@@ -11226,11 +11226,11 @@ header.masthead .site-heading .h1 {
 .post-preview > a > .post-title {
   font-size: 1.875rem;
   margin-top: 1.875rem;
-  margin-bottom: 0.625rem;
+  margin-bottom: 0.5rem;
 }
 .post-preview > a > .post-subtitle {
   font-weight: 300;
-  margin-bottom: 0.625rem;
+  margin-bottom: 0.64rem;
 }
 .post-preview > .post-meta {
   font-size: 1.125rem;
