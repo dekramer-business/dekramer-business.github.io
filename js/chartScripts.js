@@ -7,15 +7,17 @@ new Chart(ctx, {
     labels: ['Systolic', 'Diastolic',],
     datasets: [{
         label: 'MBSR',
-        data: [-4.8, -.7],
+        data: [-4.8, -1.9],
         borderWidth: 1,
-        borderRadius: 5
+        borderRadius: 5,
+        backgroundColor: 'rgba(255, 99, 132, .8)'
     },
     {
         label: 'PMR',
-        data: [-1.2, 1.2],
+        data: [-0.7, 1.2],
         borderWidth: 1,
-        borderRadius: 5
+        borderRadius: 5,
+        backgroundColor: 'rgba(54, 162, 235, .8)'
     }]
     },
     options: {
