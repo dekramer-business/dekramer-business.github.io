@@ -11216,6 +11216,10 @@ header.masthead .site-heading .h1 {
   text-align: center;
 }
 
+.post-preview {
+  max-width: 65%;
+}
+
 .post-preview > a {
   color: #212529;
 }
